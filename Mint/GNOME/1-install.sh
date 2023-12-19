@@ -9,7 +9,6 @@ else
     fi
 fi
 sudo nala update
-
 dir="$(pwd)"
 
 codecs="${dir}/sources/lists/codecs.list"
