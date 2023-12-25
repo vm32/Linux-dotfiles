@@ -24,7 +24,6 @@ sudo dnf -y remove awesome i3 openbox ratpoison
 sudo dnf -y autoremove
 echo "*************************************************************************************"
 sleep 7
-
 #TOOLS
 clear
 echo -e "TOOLS\n"
